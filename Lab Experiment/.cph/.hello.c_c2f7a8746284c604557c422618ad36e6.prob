@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"c:\\D.A.A Lab\\Lab Experiment\\hello.c","tests":[{"id":1770614878111,"input":"4\n1\n2\n3\n4\n5\n6\n4\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\D.A.A Lab\\Lab Experiment\\hello.c","group":"local","local":true}
